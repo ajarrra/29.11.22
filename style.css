@@ -81,3 +81,18 @@
   }
   
   
+
+
+
+  .card{
+    box-shadow: 3px 3px 10px black;
+    background-color: antiquewhite;
+  }
+
+  .card .card-image{
+    width: 100%;
+  }
+
+  .card .card-content{
+    padding: 10px 15px;
+  }
