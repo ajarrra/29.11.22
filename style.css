@@ -94,6 +94,10 @@
     width: 100%;
   }
 
+.card.card-horizonal .card-image{
+    width: 30%;
+}
+
   .card .card-content{
     padding: 10px 15px;
   }
