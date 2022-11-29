@@ -97,3 +97,7 @@
   .card .card-content{
     padding: 10px 15px;
   }
+
+  .card.card-horizonal{
+    display: flex;
+  }
