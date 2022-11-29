@@ -87,6 +87,7 @@
   .card{
     box-shadow: 3px 3px 10px black;
     background-color: antiquewhite;
+    margin-bottom: 10px;
   }
 
   .card .card-image{
