@@ -11,8 +11,6 @@
   .row {
     display: flex;
     flex-wrap: wrap;
-  
-    justify-content:center;
   }
   .col-12 {
     flex-basis: 100%; /* flex: 100% 0 0; */
@@ -76,15 +74,5 @@
     flex-grow: 0;
     flex-shrink: 0;
   }
-  .container-2 {
-    max-width: 700px;
-  }
-  .row-2 {
-    display: flex;
   
-    justify-content: center ;
-    flex-direction: column
-  }
-  .col-2-2 {
-    flex: 100% 0 0;
-  }
+  
