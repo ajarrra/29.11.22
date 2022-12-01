@@ -136,10 +136,11 @@ body {
 .card:hover {
     transform: scale(1.06);
     box-shadow: 10px 10px 10px #2E1503, -1em 0 .4em#2E1503, 1em 0 .4em#2E1503, 0 1em .4em #2E1503, 0 -1em .4em #2E1503;
-  
+    background-color: #a78556;
+    color: #2E1503;
 }
 
-.card-content:hover{
-color: #2E1503;
-background-color: #a78556;
+.card-content:hover {
+    color: #2E1503;
+    background-color: #a78556;
 }
